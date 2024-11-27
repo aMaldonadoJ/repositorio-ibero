@@ -1,0 +1,534 @@
+{
+    "programas": [
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Gestion de la Innovacion Tecnologica",
+            "nombre_programa": "Maestría en Gestión de la Innovación Tecnológica",
+            "modalidad": "Presencial",
+            "duracion": 576,
+            "costo": 28665,
+            "id": "01"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Ciencias de la Ingenieria",
+            "nombre_programa": "Maestría en Ciencias de la Ingeniería",
+            "modalidad": "Presencial",
+            "duracion": 480,
+            "costo": 23888,
+            "id": "02"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Nutriologia Aplicada",
+            "nombre_programa": "Maestría en Nutriología Aplicada",
+            "modalidad": "Presencial",
+            "duracion": 368,
+            "costo": 18314,
+            "id": "03"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Desarrollo Urbano",
+            "nombre_programa": "Maestría en Proyectos de Desarrollo Urbano",
+            "modalidad": "Presencial",
+            "duracion": 672,
+            "costo": 33443,
+            "id": "04"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "Maestría en Administración ",
+            "modalidad": "Presencial",
+            "duracion": 672,
+            "costo": 33443,
+            "id": "05"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "Maestría en Mercadotecnia y Publicidad",
+            "modalidad": "Presencial",
+            "duracion": 608,
+            "costo": 30258,
+            "id": "06"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Finanzas",
+            "modalidad": "Presencial",
+            "duracion": 640,
+            "costo": 31850,
+            "id": "07"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Ibero",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "Maestría en Investigación y Desarrollo de la Educación",
+            "modalidad": "Presencial",
+            "duracion": 608,
+            "costo": 30258,
+            "id": "08"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Gestion de la Innovacion Tecnologica",
+            "nombre_programa": "Maestría en Innovación para el Desarrollo Empresarial",
+            "modalidad": "En línea",
+            "duracion": 504,
+            "costo": 20000,
+            "id": "09"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Ciencias de la Ingenieria",
+            "nombre_programa": "*Maestría en Ciencias de la Ingeniería",
+            "modalidad": "Presencial",
+            "duracion": 540,
+            "costo": 24048,
+            "id": "10"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Desarrollo Urbano",
+            "nombre_programa": "*Maestría en Arquitectura y Diseño Urbano",
+            "modalidad": "Híbrido",
+            "duracion": 504,
+            "costo": 32172,
+            "id": "11"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "Maestría en Administración de Empresas (EGADE MBA)",
+            "modalidad": "Híbrido",
+            "duracion": 495,
+            "costo": 47444,
+            "id": "12"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "*Maestría en Mercadotecnia y publicidad",
+            "modalidad": "Presencial",
+            "duracion": 480,
+            "costo": 24048,
+            "id": "13"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "*Maestría en Finanzas (MAF)",
+            "modalidad": "Presencial",
+            "duracion": 480,
+            "costo": 24048,
+            "id": "14"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Finanzas (MAF-V)",
+            "modalidad": "En línea",
+            "duracion": 480,
+            "costo": 33067,
+            "id": "15"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Tecnológico de Monterrey",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "*Maestría en Educación",
+            "modalidad": "En línea",
+            "duracion": 450,
+            "costo": 13878,
+            "id": "16"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Anáhuac",
+            "cve_programa": "Maestria en Nutriologia Aplicada",
+            "nombre_programa": "*Maestría y Especialidad en Nutrición clínica",
+            "modalidad": "Presencial",
+            "duracion": 360,
+            "costo": 13333,
+            "id": "17"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Anáhuac",
+            "cve_programa": "Maestria en Desarrollo Urbano",
+            "nombre_programa": "*Maestría en Tecnologías para el Desarrollo Sustentable",
+            "modalidad": "Híbrido",
+            "duracion": 627,
+            "costo": 13333,
+            "id": "18"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "ITAM",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "MBA - Maestría en Administración (Tiempo parcial)",
+            "modalidad": "Presencial y en línea",
+            "duracion": 627,
+            "costo": 34980,
+            "id": "19"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "ITAM",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "MBA - Maestría en Administración (Tiempo intensivo)",
+            "modalidad": "Presencial y en línea",
+            "duracion": 627,
+            "costo": 31680,
+            "id": "20"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "ITAM",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Finanzas (Tiempo parcial)",
+            "modalidad": "Híbrido",
+            "duracion": 660,
+            "costo": 29150,
+            "id": "21"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "ITAM",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Finanzas (Tiempo intensivo)",
+            "modalidad": "Híbrido",
+            "duracion": 660,
+            "costo": 39600,
+            "id": "22"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Universidad Panamericana",
+            "cve_programa": "Maestria en Gestion de la Innovacion Tecnologica",
+            "nombre_programa": "Maestría en Negocios de Innovación Tecnológica",
+            "modalidad": "Híbrido",
+            "duracion": 600,
+            "costo": 25667,
+            "id": "23"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Universidad Panamericana",
+            "cve_programa": "Maestria en Ciencias de la Ingenieria",
+            "nombre_programa": "Maestría en Ingeniería",
+            "modalidad": "Presencial",
+            "duracion": 540,
+            "costo": 12000,
+            "id": "24"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Universidad Panamericana",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "Maestría en Comunicaciones de Marca",
+            "modalidad": "Presencial",
+            "duracion": 378,
+            "costo": 20441,
+            "id": "25"
+        },
+        {
+            "categoria": "Top",
+            "institucion": "Universidad Panamericana",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "*Maestría en Innovación Educativa",
+            "modalidad": "Híbrido",
+            "duracion": 448,
+            "costo": 20441,
+            "id": "26"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "La Salle",
+            "cve_programa": "Maestria en Nutriologia Aplicada",
+            "nombre_programa": "Maestría en Nutrición Clínica",
+            "modalidad": "Presencial",
+            "duracion": 420,
+            "costo": 19906,
+            "id": "27"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "La Salle",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "Maestría en Administración",
+            "modalidad": "Híbrido",
+            "duracion": 504,
+            "costo": 13727,
+            "id": "28"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "La Salle",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "*Maestría en Estrategia e Innovación en Marcas",
+            "modalidad": "Híbrido",
+            "duracion": 350,
+            "costo": 14840,
+            "id": "29"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "La Salle",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Ingeniería Económica y Financiera",
+            "modalidad": "Híbrido",
+            "duracion": 448,
+            "costo": 14840,
+            "id": "30"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "La Salle",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "*Maestría en Intervención Socioeducativa",
+            "modalidad": "En línea",
+            "duracion": 336,
+            "costo": 14840,
+            "id": "31"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "Universidad de Guadalajara",
+            "cve_programa": "Maestria en Ciencias de la Ingenieria",
+            "nombre_programa": "Maestría en Ingeniería en Tecnologías de la Información y las Comunicaciones",
+            "modalidad": "Híbrido",
+            "duracion": 360,
+            "costo": 9790,
+            "id": "32"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "Universidad de Guadalajara",
+            "cve_programa": "Maestria en Desarrollo Urbano",
+            "nombre_programa": "Maestría en Arquitectura, Construcción y Planeación Sustentable",
+            "modalidad": "Híbrido",
+            "duracion": 360,
+            "costo": 9790,
+            "id": "33"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "Universidad Intercontinental",
+            "cve_programa": "Maestria en Gestion de la Innovacion Tecnologica",
+            "nombre_programa": "Maestría en Dirección Estratégica y Gestión de la Innovación",
+            "modalidad": "En línea",
+            "duracion": 360,
+            "costo": 8667,
+            "id": "34"
+        },
+        {
+            "categoria": "Alta",
+            "institucion": "Universidad Intercontinental",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "*Maestría en Innovación Educativa",
+            "modalidad": "En línea",
+            "duracion": 0,
+            "costo": 8667,
+            "id": "35"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Universidad del Valle de México",
+            "cve_programa": "Maestria en Ciencias de la Ingenieria",
+            "nombre_programa": "Ingeniería con Orientación en Gestión de Tecnologías de Información",
+            "modalidad": "En línea",
+            "duracion": 180,
+            "costo": 11215,
+            "id": "36"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Universidad del Valle de México",
+            "cve_programa": "Maestria en Nutriologia Aplicada",
+            "nombre_programa": "*Maestría en Nutrición Clínica",
+            "modalidad": "Híbrido",
+            "duracion": 270,
+            "costo": 11215,
+            "id": "37"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Universidad del Valle de México",
+            "cve_programa": "Maestria en Desarrollo Urbano",
+            "nombre_programa": "Maestría En Arquitectura con Orientación en Diseño Sustentable",
+            "modalidad": "En línea",
+            "duracion": 180,
+            "costo": 11215,
+            "id": "38"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Universidad del Valle de México",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Administración de Negocios con Orientación en Finanzas",
+            "modalidad": "En línea",
+            "duracion": 216,
+            "costo": 4486,
+            "id": "39"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Tec Milenio",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "*Maestría en Mercadotecnia Digital",
+            "modalidad": "En línea",
+            "duracion": 350,
+            "costo": 4122,
+            "id": "40"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Tec Milenio",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Finanzas",
+            "modalidad": "Presencial y en línea",
+            "duracion": 350,
+            "costo": 4122,
+            "id": "41"
+        },
+        {
+            "categoria": "Value",
+            "institucion": "Escuela Bancaria y Comercial",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "Maestría en Alta Dirección",
+            "modalidad": "Presencial, Híbrido, en línea",
+            "duracion": 588,
+            "costo": 18411,
+            "id": "42"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "UNITEC",
+            "cve_programa": "Maestria en Nutriologia Aplicada",
+            "nombre_programa": "Maestría en Nutrición Clínica",
+            "modalidad": "Híbrido",
+            "duracion": 420,
+            "costo": 6270,
+            "id": "43"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "UNITEC",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "Maestría en Educación",
+            "modalidad": "En línea",
+            "duracion": 420,
+            "costo": 4485,
+            "id": "44"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "UNIR",
+            "cve_programa": "Maestria en Ciencias de la Ingenieria",
+            "nombre_programa": "Maestría en Gestión Ambiental y Eficiencia Energética",
+            "modalidad": "En línea",
+            "duracion": 0,
+            "costo": 2972,
+            "id": "45"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "UNIR",
+            "cve_programa": "Maestria en Finanzas",
+            "nombre_programa": "Maestría en Finanzas",
+            "modalidad": "En línea",
+            "duracion": 0,
+            "costo": 3444,
+            "id": "46"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "UTEL",
+            "cve_programa": "Maestria en Gestion de la Innovacion Tecnologica",
+            "nombre_programa": "Maestría en Dirección de Proyectos de Innovación",
+            "modalidad": "En línea",
+            "duracion": 0,
+            "costo": 7810,
+            "id": "47"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "ICEL",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "Maestría en Administración de Negocios",
+            "modalidad": "Presencial",
+            "duracion": 260,
+            "costo": 4890,
+            "id": "48"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "ICEL",
+            "cve_programa": "Maestria en Administracion",
+            "nombre_programa": "Maestría en Administración de Negocios",
+            "modalidad": "En línea",
+            "duracion": 260,
+            "costo": 3990,
+            "id": "49"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "ICEL",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "*Maestría en Mercadotecnia Digital y Comercio Electrónico",
+            "modalidad": "Presencial",
+            "duracion": 260,
+            "costo": 4700,
+            "id": "50"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "ICEL",
+            "cve_programa": "Maestria en Mercadotecnia",
+            "nombre_programa": "*Maestría en Mercadotecnia Digital y Comercio Electrónico",
+            "modalidad": "En línea",
+            "duracion": 260,
+            "costo": 3850,
+            "id": "51"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "ICEL",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "*Maestría en Educación y Docencia",
+            "modalidad": "Presencial",
+            "duracion": 260,
+            "costo": 4700,
+            "id": "52"
+        },
+        {
+            "categoria": "Price",
+            "institucion": "ICEL",
+            "cve_programa": "Maestria en Investigacion y Desarrollo de la Educacion",
+            "nombre_programa": "*Maestría en Educación y Docencia",
+            "modalidad": "En línea",
+            "duracion": 260,
+            "costo": 3850,
+            "id": "53"
+        }
+    ]
+}

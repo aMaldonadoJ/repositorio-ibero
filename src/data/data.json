@@ -1,0 +1,25 @@
+{
+  "programas": [
+    {
+      "institucion": "Tecnológico de Monterrey",
+      "nombre_programa": "Maestría en Innovación para el Desarrollo Empresarial",
+      "modalidad": "En línea",
+      "duracion_horas": 504,
+      "costo_mxn": 20000
+    },
+    {
+      "institucion": "Anáhuac",
+      "nombre_programa": "Maestría y Especialidad en Nutrición clínica",
+      "modalidad": "Presencial",
+      "duracion_horas": 480,
+      "costo_mxn": 24048
+    },
+    {
+      "institucion": "Ibero",
+      "nombre_programa": "Maestría en Estudios de Desarrollo",
+      "modalidad": "Híbrido",
+      "duracion_horas": 600,
+      "costo_mxn": 18000
+    }
+  ]
+}
