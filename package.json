@@ -2,6 +2,7 @@
   "name": "dashboard-ibero",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://amaldonadoj.github.io/repositorio-ibero",
   "type": "module",
   "scripts": {
     "dev": "vite",
